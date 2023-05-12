@@ -32,3 +32,6 @@ Un elemento de bloque se muestra en una línea separada y ocupa todo el ancho di
 Por otro lado, los elementos de línea se muestran en la misma línea que el contenido que los rodea y solo ocupan el ancho necesario para mostrar su contenido. Los elementos de línea no pueden contener otros elementos de bloque y se comportan como si fueran parte del texto normal. Ejemplos de elementos de línea son los enlaces, las etiquetas de texto como span, strong, em, entre otros.
 
 Es decir mientras los elementos en bloque ocupan todo el ancho que pueden llegar a tener sin importar su contenido, lo cual hace que se posicione uno debajo del otro los elementos en linea solo ocupan segun lo grande se su contenido para que lo pueda mostrar, lo cual, permite posicionar uno al lado del otro.
+
+¿Que son los Estilos?
+Una pagina web son un grupo de caja ordenas siguiendo ciertas ordenes estas ordenes son las configuraciones que le damos nosotros para posicionar y modificar esas caja, es decir con reglas que dictamos para configurar esas cajas
