@@ -1,3 +1,7 @@
 p,h1.punto {
-    font-size: 150px;
+    font-size: 20px;
+}
+
+a[target="_blank"]{
+    font-size: 90px;
 }
