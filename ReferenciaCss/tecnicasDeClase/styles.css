@@ -2,6 +2,6 @@ p,h1.punto {
     font-size: 20px;
 }
 
-p[lang$="s"]{
+p[class*="pun"]{
     font-size: 90px;
 }
