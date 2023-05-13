@@ -1,7 +1,4 @@
-p,h1.punto {
-    font-size: 20px;
-}
-
-p[class*="pun"]{
-    font-size: 80px;
+p:nth-child(2){
+    font-size: 60px;
+    background-color: blueviolet;
 }
