@@ -2,18 +2,6 @@
     margin: 0px;
 }
 
-p:nth-child(odd){
-    font-size: 60px;
-    background-color: blueviolet;
-}
-
-p:nth-child(even){
-    font-size: 20px;
-    background-color:aqua;
-}
-p:last-child{
-    background-color:aquamarine ;
-}
-p:first-child{
-    background-color: brown;
+p:only-child{
+    background-color: yellow;
 }
