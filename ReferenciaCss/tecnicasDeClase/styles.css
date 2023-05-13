@@ -1,4 +1,4 @@
-p:nth-child(2){
+p:nth-child(odd){
     font-size: 60px;
     background-color: blueviolet;
 }
