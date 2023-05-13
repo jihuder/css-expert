@@ -2,6 +2,6 @@ p,h1.punto {
     font-size: 20px;
 }
 
-a[rel="noopener"]{
-    font-size: 10px;
+a[rel^="noo"]{
+    font-size: 50px;
 }
