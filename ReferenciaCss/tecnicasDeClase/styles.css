@@ -1,7 +1,7 @@
 p,h1.punto {
-    font-size: 40px;
+    font-size: 20px;
 }
 
-a[data-nombre^="enla"]{
-    font-size: 50px;
+p[lang^="es"]{
+    font-size: 90px;
 }
